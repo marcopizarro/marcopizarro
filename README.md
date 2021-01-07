@@ -1,4 +1,4 @@
-### Hi therem], I'm Marco👋
+### Hi there, I'm Marco👋
 
 - 🔭 I’m currently working on Tree Hacks 2021.
 - 💬 Ask me about photography!
