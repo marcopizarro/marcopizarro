@@ -10,4 +10,4 @@
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ... -->
 
-[![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcopizarro)](https://github.com/anuraghazra/github-readme-stats)
+[![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcopizarro&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
