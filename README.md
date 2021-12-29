@@ -1,6 +1,6 @@
 ### Hi there, I'm Marco👋
 
-- 🔭 I’m currently working on Tree Hacks 2022.
+- 🔭 I’m currently working on TreeHacks 2022.
 - 💬 Ask me about photography!
 - 📫 How to reach me: [pizarro@stanford.edu](mailto:pizarro@stanford.edu).
 - 😄 Pronouns: He/Him
