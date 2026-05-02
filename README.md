@@ -3,7 +3,7 @@
 <!-- - 💬 Ask me about photography! -->
 - 📫 How to reach me: [pizarro@stanford.edu](mailto:pizarro@stanford.edu).
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently working on strEats [https://www.streats.live/]
+- 🔭 I’m currently working on [strEats](https://www.streats.live/)
 <!-- - 🌱 I’m currently learning to cook and bake -->
 <!--
 - 
